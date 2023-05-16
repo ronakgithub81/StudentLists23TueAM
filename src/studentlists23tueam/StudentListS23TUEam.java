@@ -10,7 +10,6 @@ import java.util.Scanner;
 public class StudentListS23TUEam {
 
     //hello this is comment
-    //helllo this is  comment for rollback
     public static void main(String[] args) {
         Student s1 =new Student("s1","Ronak");
        // Scanner input = new Scanner(System.in);
