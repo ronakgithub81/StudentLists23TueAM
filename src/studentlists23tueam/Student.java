@@ -5,7 +5,7 @@ package studentlists23tueam;
 public class Student {
     private String sname;
     private String sID;
-
+//this has been edited on github.com to show fetch+merge
     public Student(String sID,String sname ) {
         this.sname = sname;
         this.sID = sID;
