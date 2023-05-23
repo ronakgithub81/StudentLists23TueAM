@@ -6,6 +6,7 @@ public class Student {
     private String sname;
     private String sID;
 //this has been edited on github.com to show fetch+merge
+    //some comment at 9:42
     public Student(String sID,String sname ) {
         this.sname = sname;
         this.sID = sID;
